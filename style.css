@@ -1,0 +1,13 @@
+html, body{
+  margin: 0
+}
+
+#map {
+  height: 80vh;
+  width: 100%;
+  margin-top: 10vh;
+ }
+
+.leaflet-popup-content {
+  width:auto !important;
+}
